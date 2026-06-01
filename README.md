@@ -80,7 +80,7 @@ This project uses the OpenWeatherMap API.
 3. Replace the API key in:
 
 ```javascript
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "c04c93cf8d064ca2a17132633260106";
 ```
 
 ---
@@ -129,13 +129,3 @@ Through this project, I gained hands-on experience in:
 ## 👩‍💻 Author
 
 Pallavi P
-
-Web Development Intern @ Prodigy InfoTech
-
----
-
-## ⭐ Acknowledgements
-
-* OpenWeatherMap API
-* Chart.js
-* Prodigy InfoTech
