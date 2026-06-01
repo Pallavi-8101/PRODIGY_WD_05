@@ -79,15 +79,7 @@ This project uses the OpenWeatherMap API.
 
 ```javascript
 const API_KEY = "c04c93cf8d064ca2a17132633260106";
-
----
-
-## 📸 Screenshots
-
-* Home Page
-* Weather Search
-* Temperature Chart
-* Responsive Mobile View
+```
 
 ---
 
@@ -108,3 +100,5 @@ Through this project, I gained hands-on experience in:
 ## 👩‍💻 Author
 
 Pallavi P
+
+Web Development Intern @ Prodigy InfoTech
