@@ -63,8 +63,6 @@ Weather-App/
 
 ├── output/
 
-│ ├── screenshots/
-
 │ └── demo-video/
 
 └── README.md
@@ -81,25 +79,6 @@ This project uses the OpenWeatherMap API.
 
 ```javascript
 const API_KEY = "c04c93cf8d064ca2a17132633260106";
-```
-
----
-
-## ▶️ How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/WeatherSphere.git
-```
-
-2. Open the project folder.
-
-3. Add your OpenWeatherMap API key.
-
-4. Run the project using Live Server.
-
-5. Enter a city name and view the weather forecast.
 
 ---
 
